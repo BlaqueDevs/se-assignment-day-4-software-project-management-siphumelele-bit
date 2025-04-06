@@ -6,7 +6,7 @@ timely delivary is important because it allows you to keep up with deadlines whi
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 Cost control allows you to stay within the budget allowing for the appropriate funds to be used elsewhere well to do this you can try to find alternatives to things and cut costs when necesarry be mindful of what money is spent on
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-agile allows for iterative develpmet process that incoperates users and stake holders in it but maybe open to chaos as it involves a lot of people and lacks structure on the other hand waterfall method  
+agile allows for iterative develpmet process that incoperates users and stake holders in it but maybe open to chaos as it involves a lot of people and lacks structure on the other hand waterfall method allows for people to work and plan properly and is easily predictable so everybody knows what is happening   
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
