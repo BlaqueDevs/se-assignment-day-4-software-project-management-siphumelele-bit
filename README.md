@@ -14,10 +14,16 @@ to have peer review groups that regularly check work and this is important becau
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 to establish proper permiters and to not waste time and resources 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
-
+So you can stay on schedule and optimize your project time and how you would do your project and gantt chart allowes you to do this by checking which tasks can be done at the same time and which tasks need specia; attention 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+it aims to provide a market place to service providers and people looking for them to meet and interact  
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+so you can see what is necesarry and what is not
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+imagine if you could get customers just by being great at what you do
 ## 11. What are the main features or functionalities that make your software stand out?
+it would be the first to cater to this market
 ## 12. What data is available regarding the market size and growth potential for your software?
+the indusrty is currently worth $646.20 billion
 ## 13. How can understanding market trends inform your software’s positioning and development?
+it could help me tailor it to my audience and not try to make for everbody
