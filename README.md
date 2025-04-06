@@ -8,9 +8,13 @@ Cost control allows you to stay within the budget allowing for the appropriate f
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 agile allows for iterative develpmet process that incoperates users and stake holders in it but maybe open to chaos as it involves a lot of people and lacks structure on the other hand waterfall method allows for people to work and plan properly and is easily predictable so everybody knows what is happening   
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+well if you might be introducing new features to a aleady existing product like youtube then Agile would or best like how they allow pemum subscribers access to features first and then teest how often or let them rate how they used themand aterfall might be best products that have never been seen before that are just starting out that don't even have customeers to help them
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+to have peer review groups that regularly check work and this is important because it allows people to correct errors early   
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+to establish proper permiters and to not waste time and resources 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
